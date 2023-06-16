@@ -1,10 +1,8 @@
-# Morse Decoder
-
+# Decode-Morse-Code
 This is a Ruby project that automates the process of decoding Morse code messages found in old bottles at the seaside.
 
 
 ## Built With
-
 - Ruby
 
 ## Authors
@@ -12,7 +10,7 @@ This is a Ruby project that automates the process of decoding Morse code message
 👤 **Ikenna Richard**
 
 - GitHub: [@ikennarchard](https://github.com/ikennarichard)
-- LinkedIn: [ikenna richard](https://linkedin.com/in/ikenna-richard)
+- LinkedIn: [ikenna_richard](https://linkedin.com/in/ikenna-richard)
 
 ## 🤝 Contributing
 
